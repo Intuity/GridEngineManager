@@ -13,6 +13,7 @@ var _typeof = typeof Symbol === "function" && typeof Symbol.iterator === "symbol
 
 exports.monitorUsers = monitorUsers;
 exports.monitorJob = monitorJob;
+exports.pollJob = pollJob;
 
 var _schedulerManager = require('./scheduler-manager');
 
